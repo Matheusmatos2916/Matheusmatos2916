@@ -8,8 +8,8 @@ Meu nome é Matheus Matos, sou um grande entusiasta de tecnologia, tenho 18 anos
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Matheusmatos2916&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmatos2916&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Matheusmatos2916&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmatos2916&layout=compact&langs_count=7&theme=dracula"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>

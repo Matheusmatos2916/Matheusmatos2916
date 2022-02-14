@@ -20,7 +20,7 @@ Meu nome é Matheus Matos, sou um grande entusiasta de tecnologia, tenho 18 anos
 <div align="right">
  
 
-  <a href="https://www.linkedin.com/in/matheus-matos-b478871b9/" target="_blank"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/69/fe/d7/69fed716-fe70-9b1e-3701-4128f6333f58/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/256x256bb.png" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/matheus-matos-b478871b9/" target="_blank"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/69/fe/d7/69fed716-fe70-9b1e-3701-4128f6333f58/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/64x64bb.png" target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=Matheusmatos2916)
 </div>

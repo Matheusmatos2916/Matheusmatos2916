@@ -13,7 +13,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmatos2916&show_icons=true&locale=en&layout=compact" alt="matheusmatos2916" /> </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=matheusmatos2916&show_icons=true&locale=en" alt="matheusmatos2916" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matheusmatos2916&show_icons=true&locale=en" alt="matheusmatos2916" /></p>
 
 <h1 align="center">Estudos</h1>
 <h3 align="center"> Atualmente, estou  1°semestre de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).</h3>

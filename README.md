@@ -1,16 +1,29 @@
-### Hi there 👋
+## Saudações a todos! 👋
 
-<!--
-**Matheusmatos2916/Matheusmatos2916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Matos, sou um grande entusiasta de tecnologia, tenho 18 anos e moro em Maracanaú-CE. Estudo Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+<!-- GITHUB STATUS -->
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusmatos2916&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmatos2916&layout=compact&langs_count=7&theme=dracula"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
+
+<br>
+
+<!-- REDES SOCIAIS -->
+<div align="right">
+ 
+
+  <a href="https://www.linkedin.com/in/matheus-matos-b478871b9/" target="_blank"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/69/fe/d7/69fed716-fe70-9b1e-3701-4128f6333f58/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/256x256bb.png" target="_blank"></a>  
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=Matheusmatos2916)
+</div>
+
+
+

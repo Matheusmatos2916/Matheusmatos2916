@@ -1,8 +1,3 @@
-
-
-Meu nome é Matheus Matos, sou um grande entusiasta de tecnologia, tenho 18 anos e moro em Maracanaú-CE. Estudo Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
-
-
 <h1 align="center">Olá👋, sou Matheus Matos</h1>
 <h3 align="center">Meu nome é Matheus Matos, sou um grande entusiasta de tecnologia, tenho 18 anos e moro em Maracanaú-CE. Estudo Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).</h3>
 

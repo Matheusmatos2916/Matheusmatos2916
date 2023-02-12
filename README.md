@@ -1,9 +1,13 @@
-<h1 align="center"> Saudações a todos! 👋</h1>
-<h3 align="center">Meu nome é Matheus Matos, sou um grande entusiasta de tecnologia, tenho 19 anos e moro em Maracanaú-CE. Estudo Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).</h3>
+<h1 align="center"> Greetings everyone! 👋</h1>
+<h3 align="center">Hello, I'm a data scientist with a passion for technology and innovation. Here on GitHub, I share my knowledge and projects I've developed over the years.
+
+I believe that collaboration and knowledge sharing are fundamental for personal and professional growth. That's why I'm always looking to participate in open projects and help other developers of all skill levels.
+
+If you are interested in working together on a project or just want to know more about what I do, please don't hesitate to contact me. I am always open to new opportunities and connections.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusmatos2916&label=Profile%20views&color=0e75b6&style=flat" alt="matheusmatos2916" /> </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="center">connect with me</h3>
 <p align="esquerda">
 <a href="https://www.linkedin.com/in/matheus-matos-b478871b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus matos" height="30" width="40" /></a>
 </p>

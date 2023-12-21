@@ -19,5 +19,5 @@ If you are interested in working together on a project or just want to know more
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusmatos2916&show_icons=true&locale=en&layout=compact" alt="matheusmatos2916" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmatos2916&show_icons=true&locale=en" alt="matheusmatos2916" /></p>
 
-<h1 align="center">Estudos</h1>
-<h3 align="center"> Atualmente, estou  3°semestre de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).</h3>
+<h1 align="center">Studies</h1>
+<h3 align="center">Currently, I am in the 4th semester of Computer Science at the Federal Institute of Education, Science and Technology of Ceará (IFCE)</h3>

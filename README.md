@@ -20,4 +20,4 @@ If you are interested in working together on a project or just want to know more
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmatos2916&show_icons=true&locale=en" alt="matheusmatos2916" /></p>
 
 <h1 align="center">Studies</h1>
-<h3 align="center">Currently, I am in the 4th semester of Computer Science at the Federal Institute of Education, Science and Technology of Ceará (IFCE)</h3>
+<h3 align="center">Currently, I am in the 7th semester of Computer Science at the Federal Institute of Education, Science and Technology of Ceará (IFCE)</h3>

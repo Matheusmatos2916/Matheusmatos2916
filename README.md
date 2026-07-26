@@ -36,11 +36,6 @@ Aqui no GitHub, compartilho os projetos e experimentos que desenvolvo com LLMs, 
   <a href="mailto:contatomatheusmatos23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://medium.com/@matheusmatosrocha" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Stack principal

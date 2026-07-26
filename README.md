@@ -9,11 +9,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Matheus%20Matos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Agentes%20Aut%C3%B4nomos&descAlignY=55&descSize=18" width="100%"/>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-matos-rocha/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Construo+sistemas+de+IA+em+produção;Agentes+multi-LLM+%7C+RAG+h%C3%ADbrido+%7C+LLMOps;GPT+%7C+LLaMA+%7C+LangChain+%7C+CrewAI;Aberto+a+oportunidades+j%C3%BAnior%2Fpleno" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matheusmatos2916&label=Visualizações+do+perfil&color=0e75b6&style=flat" alt="matheusmatos2916" />

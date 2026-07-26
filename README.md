@@ -82,22 +82,6 @@ Aqui no GitHub, compartilho os projetos e experimentos que desenvolvo com LLMs, 
 
 ---
 
-### 📈 Atividade recente
-
-<!--START_SECTION:activity-->
-<!-- Este bloco é preenchido automaticamente pela GitHub Action "github-activity-readme" — ver instruções abaixo -->
-<!--END_SECTION:activity-->
-
----
-
-### 🐍 Contribuições (animação)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matheusmatos2916/matheusmatos2916/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
 ### 🎓 Formação
 
 Bacharelado em Ciência da Computação — Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), conclusão prevista para 2026.
